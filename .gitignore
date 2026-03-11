@@ -1,0 +1,12 @@
+# Claude internal files
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Images used as references only
+*.png
+*.jpg
+*.jpeg
